@@ -17,7 +17,7 @@ font-family: 'Spinnaker', sans-serif;
   height: 100vh;
   display:block;
   text-align: center;
-  background-image: url('./images/sky4k_min.jpg');
+  background-image: url('../images/sky4k_min.jpg');
   background-repeat: no-repeat, repeat;
   background-size: cover;
   position: relative;
@@ -163,7 +163,7 @@ a {
 
 .about {
   height:100vh;
-   background-image: url('./images/ziemia_edit2.png');
+   background-image: url('../images/ziemia_edit2.png');
 }
 
 .section-container {
@@ -226,7 +226,7 @@ a {
 }
 
 .project-streetworkout {
-  background-image: url('./images/biegacz_edit2_min.jpg');
+  background-image: url('../images/biegacz_edit2_min.jpg');
   height: 100vh;
 }
 
