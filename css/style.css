@@ -16,7 +16,7 @@
   height: 100vh;
   display: block;
   text-align: center;
-  background-image: url("../images/sky4k_min.jpg");
+  background-image: url("../images/sky.jpg");
   background-repeat: no-repeat, repeat;
   background-size: cover;
   position: relative;
@@ -162,7 +162,7 @@ a {
 
 .about {
   height: 100vh;
-  background-image: url("../images/ziemia_edit2.png");
+  background-image: url("../images/earth.jpg");
 }
 
 .section-container {
@@ -216,16 +216,16 @@ a {
 
 .contact {
   height: 100%;
-  background-image: url("../images/satelita_min.jpg");
+  background-image: url("../images/satellite.jpg");
 }
 
 .project-mars {
-  background-image: url("../images/mars_planet_edit2_min.png");
+  background-image: url("../images/mars_planet_full.jpg");
   height: 110vh;
 }
 
 .project-streetworkout {
-  background-image: url("../images/biegacz_edit2_min.jpg");
+  background-image: url("../images/runner.jpg");
   height: 100vh;
 }
 
@@ -267,23 +267,23 @@ a {
 }
 
 .project-game {
-  background-image: url("../images/theme.png");
-  height: 100vh;
+  background-image: url("../images/pattern.jpg");
+  height: 105vh;
 }
 
 .project-store {
-  background-image: url("../images/bags_new.jpg");
+  background-image: url("../images/bags.jpg");
   height: 100vh;
 }
 
 .project-itpgdansk {
-  background-image: url("../images/nowy_laptop.jpg");
-  height: 100vh;
+  background-image: url("../images/computer.jpg");
+  height: 110vh;
 }
 
 .project-best {
   height: 100%;
-  background-image: url("../images/people_edit_min.png");
+  background-image: url("../images/people.jpg");
 }
 
 .img-wrapper {
@@ -503,7 +503,7 @@ h3 {
   }
 
   .project-mars {
-    background-image: url("../images/mars_planet_edit2_min.png");
+    background-image: url("../images/mars_planet_full.jpg");
   }
 
   .section-title {
